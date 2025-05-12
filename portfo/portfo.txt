@@ -1,0 +1,4 @@
+Project Title: "IBM Data Analyst Capstone Project"
+Project Link: "https://github.com/Tajaar/IBM_DATA_ANALYST"
+Domains: ["Data Analysis", "SQL", "Python", "Dashboarding", "Capstone"]
+Description: "This capstone project is the final component of the IBM Data Analyst Professional Certificate. It demonstrates end-to-end data analysis skills including data wrangling with Python, exploratory data analysis, SQL querying, and the creation of insightful visualizations and dashboards using tools like Excel and Cognos Analytics. The project culminates in deriving business recommendations from a real-world dataset."
